@@ -19,6 +19,7 @@
             padding: 0;
         }
 
+
         .chat-container {
             max-width: 500px;
             margin: 50px auto;
